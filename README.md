@@ -35,7 +35,7 @@ Les fonctionnalités **supplémentaires** suivantes sont implémentées :
 
 Voici une présentation des user stories implémentées :
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/Biggy123123/TwitterMK2/blob/main/TwitterMK2%5B1%5D.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF créé avec [LiceCap](http://www.cockos.com/licecap/).
 
